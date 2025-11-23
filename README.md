@@ -10,7 +10,7 @@ Frontend
 ✅ Dynamic Project Filtering – Filter projects by category (Web, App, Design)
 ✅ Contact Form – Connected to a Node.js backend
 ✅ Dark/Light Mode – Toggleable theme (optional)
-✅ SEO Optimized – Meta tags, semantic HTML
+✅ SEO Optimized – Meta tags, semantic HTML..
 
 Backend
 ✅ REST API – Handle form submissions and analytics
